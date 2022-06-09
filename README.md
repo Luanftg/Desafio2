@@ -23,6 +23,6 @@
 - [ ] git checkout - (-b)
 - [ ] git diff
 - [ ] git add remote 'origin' [urlRepo]
-
+- [ ] git stash  (list/ apply/ clear  --include--untracked)
 
 ## Teste Rebase
