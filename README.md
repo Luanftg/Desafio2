@@ -1,11 +1,10 @@
 - position
-    - relative:
-    - absolute:
-
+  - relative:
+  - absolute:
 
 - display
- - flex: unidimensional
- - grid: multidimensional
+- flex: unidimensional
+- grid: multidimensional
 
 ## Comandos Git
 
