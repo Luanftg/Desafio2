@@ -5,15 +5,14 @@
 - display
 - flex: unidimensional
 - grid: multidimensional
-
-## Comandos Git
+- ## Comandos Git
 
 - git init
 - git add
 - git commit -m "<message>"
 - git push
 - git pull
-- git merge
+- git merge  (--rebase)
 - git rebase
 
 - [ ] git status
